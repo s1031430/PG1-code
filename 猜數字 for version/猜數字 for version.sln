@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "猜數字 for version", "猜數字 for version\猜數字 for version.vcxproj", "{3FB9C5A7-710B-4C4B-B303-A318AD1BC354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB9C5A7-710B-4C4B-B303-A318AD1BC354}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FB9C5A7-710B-4C4B-B303-A318AD1BC354}.Debug|Win32.Build.0 = Debug|Win32
+		{3FB9C5A7-710B-4C4B-B303-A318AD1BC354}.Release|Win32.ActiveCfg = Release|Win32
+		{3FB9C5A7-710B-4C4B-B303-A318AD1BC354}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
